@@ -1,7 +1,6 @@
-```
-<h1 align="center">Hi, I'm [Quentin Rhodes].</h1>
+<h1 align="center">Hi, I'm [Quentin Mozingo].</h1>
 <p align="center">
-  [Houston, TX
+  [Houston, TX]
   <br/>
   <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-HANDLE]/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -11,7 +10,7 @@
 
 ## About Me
 
-[I served in the United States Marine Corps and had a lot of different jobs.]
+Served in the United States Marine Corps before Tech
 
 I am actively building hands-on technical experience through enterprise-style home labs and documented GitHub projects focused on:
 
@@ -50,7 +49,7 @@ My goal is to secure an **[entry-level IT / SOC Analyst / Help Desk / Cybersecur
 - Practiced domain joins, account lifecycle management, and permission troubleshooting
 - Documented architecture, scripts, and lessons learned
 
-📁 Repo: Enterprise-AD-Lab
+📁 Repo: [Enterprise-AD-Lab](https://github.com/[YOUR-GITHUB-USERNAME]/Enterprise-AD-Lab)
 
 ---
 
@@ -63,7 +62,7 @@ My goal is to secure an **[entry-level IT / SOC Analyst / Help Desk / Cybersecur
 - Practiced core SOC workflows: alert triage, event correlation, and basic detection logic
 - Documented detection use cases and findings
 
-📁 Repo: Windows-Security-Monitoring-Lab
+📁 Repo: [Windows-Security-Monitoring-Lab](https://github.com/[YOUR-GITHUB-USERNAME]/Windows-Security-Monitoring-Lab)
 
 ---
 
@@ -112,17 +111,18 @@ My goal is to secure an **[entry-level IT / SOC Analyst / Help Desk / Cybersecur
     <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-> [LIST ANY CERTIFICATIONS YOU HAVE. IF IN PROGRESS, ADD: *(In Progress – Expected [MONTH YEAR])*]
-> If you have no certifications yet, you can remove this section or add "CompTIA Security+ *(In Progress)*"
+CompTIA Security+ *(In Progress)*"
 
 ---
 
 ## Professional Experience
 
-### [Infantry Rifleman]
-**[USMC]** | *[MAY 2018] – [MAY 2023]*
+### [Infantry Rifleman
+**[USMC]** | *[May 2018 – [May 2023*
 
-
+- [Key responsibility or accomplishment — focus on transferable skills: leadership, problem solving, data, processes, people]
+- [Another accomplishment — include a number if possible, e.g., "Managed logistics for 200+ personnel"]
+- [Another accomplishment]
 
 > 💡 If you're transitioning from military, trades, customer service, or any non-tech role — include it. Transferable experience matters. If you have no professional experience yet, remove this section.
 
@@ -130,10 +130,9 @@ My goal is to secure an **[entry-level IT / SOC Analyst / Help Desk / Cybersecur
 
 ## Education
 
-- [GIA — 2026
+- [SCHOOL NAME] — [GRADUATION YEAR or Expected YEAR]
 - [ANY BOOTCAMPS, ONLINE PROGRAMS, OR COURSES — e.g., "Vantage Hub Cybersecurity Program — 2025"]
 
 ---
 
-<p align="center"><i>[If you can see it in your vision , you can have it in fruition." ]</i></p>
-```# Quentin-Mozingo
+<p align="center"><i>[If you can see it in your vision, You can have it in fruition]</i></p>
